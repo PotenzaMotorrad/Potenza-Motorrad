@@ -1,0 +1,52 @@
+body{
+    background-color:  #dffbfa;
+}
+h1{
+    display: flex;
+    justify-content: center;
+    border-top: 0px;
+    margin-top: 0px;
+    background-color: #018080;
+    border-radius: 20px;
+    font-family: 'Contrail One', sans-serif;
+}
+.routes{
+    display: flex;
+    justify-content: space-around;
+    border-radius: 20px;
+    font-family: 'Contrail One', sans-serif;
+    background-color: #2a2727;
+    color: #e2fcefff;;
+}
+p{
+    font-family: 'Contrail One', sans-serif;
+    font-size: 30px;
+}
+a {
+    color: #e2fcefff;
+    text-decoration: none;
+}
+
+a:hover {
+    color:#00A0C6; 
+    text-decoration:none; 
+    cursor:pointer;  
+}
+.hunter-350{
+    display: flex;
+    justify-content: space-around;
+    font-family: 'Contrail One',sans-serif;
+}
+.meteor-650{
+    display: flex;
+    justify-content: space-around;
+    font-family: 'Contrail One',sans-serif;
+}
+h3{
+    color: black;
+}
+h3:hover{
+    color:#00A0C6; 
+    text-decoration:none; 
+    cursor:pointer;
+}
